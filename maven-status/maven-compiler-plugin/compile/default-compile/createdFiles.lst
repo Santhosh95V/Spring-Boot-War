@@ -1,0 +1,5 @@
+com\todo\rest\webservices\restfulwebservices\todo\TodoJPAResource.class
+com\todo\rest\webservices\restfulwebservices\todo\Todo.class
+com\todo\rest\webservices\restfulwebservices\todo\TodoJpaRepository.class
+com\todo\rest\webservices\restfulwebservices\todo\TodoService.class
+com\todo\rest\webservices\restfulwebservices\RestfulWebServicesApplication.class
